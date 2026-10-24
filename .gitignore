@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.py
+test_js.js
+mobile_test.png
